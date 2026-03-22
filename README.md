@@ -77,5 +77,5 @@ Network traffic analysis helps detect suspicious activities such as port scannin
 ---
 
 ## 📎 Author
-Your Name  
+Tejas Agarwal
 Cybersecurity Intern
